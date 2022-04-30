@@ -13,6 +13,6 @@ public class App
 		System.out.println( "Hello clone1!" );
 		System.out.println( "Hello main!" );
 		System.out.println( "Hello main!" );
-		System.out.println( "Hello created branch!" );
+		System.out.println( "Hello modified branch!" );
     }
 }
